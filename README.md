@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**forthfora/forthfora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<samp>
+  <p align="center">
+    hi there!
+  </p>
+  <p align="center">
+    if you're looking for my main account, it's <a href="https://github.com/rorycondict">here</a>.
+  </p>
+  <p align="center">
+    otherwise, have a cookie 🍪 and enjoy your stay here.
+  </p>
+</samp>
